@@ -1,0 +1,24 @@
+{
+  "name": "auto-phptravels",
+  "version": "1.0.0",
+  "description": "Repositorio para Estudo e Pratica de Automação de Teste usando Cypress + Cucumber + CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtonfc/auto-phpTravels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailtonfc/auto-phpTravels/issues"
+  },
+  "homepage": "https://github.com/mailtonfc/auto-phpTravels#readme",
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
